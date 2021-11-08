@@ -5,33 +5,7 @@
 # #### Name: Hazel Titley
 # 
 # Date: 17/09/2021
-# 
-# Environment: Python 3.7.9 and Anaconda 2020.11
-# 
-# Libraries used:
-# * pandas
-# * numpy
-# * matplotlib
-# * re
-# * datetime
-# * ast
-# * networkx
-# * sklearn
-# * nltk
-# * sympy
-# * collections
-# 
-# This code aims to clean dirty data, missing data, and outlier data from 3 separate files. It is split into 5 main sections:
-# 
-# * Part 0 - importing data and libraries
-# * Part 1 - imputing missing data 
-# * Part 2 - filtering outlier data
-# * Part 3 - cleaning dirty data
-# * Part 4 - exporting data
-# 
-# Parts 1 to 3 deal with the processing of the data. The processes are outlined in more detail within each section. <br>
-# <br>
-# Note: Please ensure that the data is stored in the same directory as this jupyter file, otherwise the code will not run.
+
 
 # ## Part 0 - Importing libraries and data
 # before any data can be processed, it needs to read in to the working memory, and the relevant libraries imported.
