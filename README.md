@@ -1,9 +1,9 @@
 # data-cleaning-example
-# Date: 17/09/2021
+Date: 17/09/2021
 
-# Environment: Python 3.7.9 and Anaconda 2020.11
+Environment: Python 3.7.9 and Anaconda 2020.11
 
-# Libraries used:
+Libraries used:
  * pandas
  * numpy
  * matplotlib
