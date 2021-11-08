@@ -35,10 +35,10 @@ from collections import Counter
 
 
 #reading in files
-outlier_data = pd.read_csv("32565895_outlier.csv")
-missing_data = pd.read_csv("32565895_missing.csv")
-dirty_data = pd.read_csv("32565895_dirty.csv")
-rest_data = pd.read_csv("restaurant_data_student.csv")
+outlier_data = pd.read_csv("outlier.csv")
+missing_data = pd.read_csv("missing.csv")
+dirty_data = pd.read_csv("dirty.csv")
+rest_data = pd.read_csv("restaurant_data.csv")
 nodes = pd.read_csv("nodes.csv")
 edges = pd.read_csv("edges.csv")
 #inspecting one of the dataframes to ensure reading has been successful
@@ -962,9 +962,9 @@ car_dict
 # In[54]:
 
 
-dirty_data.to_csv('32565895_dirty_solution.csv')
-missing_data.to_csv('32565895_missing_solution.csv')
-outlier_data.to_csv('32565895_outlier_solution.csv')
+dirty_data.to_csv('dirty_solution.csv')
+missing_data.to_csv('missing_solution.csv')
+outlier_data.to_csv('outlier_solution.csv')
 
 
 # # References
