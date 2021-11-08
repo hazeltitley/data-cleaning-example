@@ -17,7 +17,7 @@ Libraries used:
  * collections
 
 
-This code deals with the cleaning of synthetic data designed to simulate real data produced by food delivery companies (such as uber eats). The data is extracted from 3 separate files, these contain dirty data (e.g. corrupted data), missing data, and outlier data. the processing of these files is executed separately and is split into 5 main sections:
+This code deals with the cleaning of synthetic data designed to simulate real data produced by food delivery companies (such as uber eats). The data is extracted from 3 separate files, these contain dirty data (e.g. corrupted data), missing data, and outlier data. The processing of these files is executed separately and is split into 5 main sections:
 
  * Part 0 - importing data and libraries
  * Part 1 - imputing missing data 
